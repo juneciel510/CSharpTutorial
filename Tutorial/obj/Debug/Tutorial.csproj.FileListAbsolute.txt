@@ -1,0 +1,15 @@
+C:\Users\LChen47\OneDrive - Schlumberger\Lejun\Tutorial_C#\Giraffe\Giraffe\bin\Debug\Tutorial.exe.config
+C:\Users\LChen47\OneDrive - Schlumberger\Lejun\Tutorial_C#\Giraffe\Giraffe\bin\Debug\Tutorial.exe
+C:\Users\LChen47\OneDrive - Schlumberger\Lejun\Tutorial_C#\Giraffe\Giraffe\bin\Debug\Tutorial.pdb
+C:\Users\LChen47\OneDrive - Schlumberger\Lejun\Tutorial_C#\Giraffe\Giraffe\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\LChen47\OneDrive - Schlumberger\Lejun\Tutorial_C#\Giraffe\Giraffe\obj\Debug\Tutorial.exe
+C:\Users\LChen47\OneDrive - Schlumberger\Lejun\Tutorial_C#\Giraffe\Giraffe\obj\Debug\Tutorial.pdb
+C:\Users\LChen47\OneDrive - Schlumberger\Lejun\Tutorial_C#\Giraffe\Giraffe\obj\Debug\Tutorial.csprojAssemblyReference.cache
+C:\Users\junec\OneDrive\Documents\cs\C#\Tutorial_C#\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\junec\OneDrive\Documents\cs\C#\Tutorial_C#\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+C:\Users\junec\OneDrive\Documents\cs\C#\Tutorial_C#\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\junec\OneDrive\Documents\cs\C#\Tutorial_C#\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.AssemblyReference.cache
+C:\Users\junec\OneDrive\Documents\cs\C#\Tutorial_C#\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\junec\OneDrive\Documents\cs\C#\Tutorial_C#\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\junec\OneDrive\Documents\cs\C#\Tutorial_C#\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\junec\OneDrive\Documents\cs\C#\Tutorial_C#\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
